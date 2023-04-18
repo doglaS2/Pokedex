@@ -1,0 +1,1 @@
+![](https://github.com/doglaS2/Pokedex/blob/master/mostruario.png)
